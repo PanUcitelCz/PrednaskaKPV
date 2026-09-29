@@ -1,1 +1,1 @@
-print("KPV-Přednáška")
+print("KPV-Seminář")
